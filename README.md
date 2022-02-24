@@ -14,7 +14,7 @@ with open('your_results.pkl', 'rb') as file:
 ```
 
 ## Dependencies
-The requirements needed to run the classification function are presented in the file 'requirements.txt'. Should any of these libraries be missing from the active Python installation, they can be installed in the command line:
+The requirements needed to run the classification function are presented in the file 'requirements.txt'. Should any of these libraries be missing from the active Python installation, they can be installed in the command line (assuming pip is installed):
 ````
 pip install -r /path/to/requirements.txt
 ````
